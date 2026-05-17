@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from openpyxl import Workbook
 
 # 1. ТВОЙ ТОКЕН ОТ @BotFather (никогда не выкладывай его в интернет!)
-API_TOKEN = '8665498939:AAFH3rf6JaoxFVvMvdNlIOk0HJLAoiNkX0U'
+API_TOKEN = ''
 
 # 2. Создаем экземпляры бота и диспетчера
 bot = Bot(token=API_TOKEN)
