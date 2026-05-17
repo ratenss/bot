@@ -3,7 +3,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 
-bot = Bot(token="8665498939:AAFH3rf6JaoxFVvMvdNlIOk0HJLAoiNkX0U")
+bot = Bot(token="")
 dp = Dispatcher()
 
 @dp.message(Command("start", "help"))
