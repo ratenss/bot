@@ -7,7 +7,7 @@ from openpyxl import Workbook, load_workbook
 import os
 from datetime import datetime
 
-API_TOKEN = '8665498939:AAFH3rf6JaoxFVvMvdNlIOk0HJLAoiNkX0U'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
